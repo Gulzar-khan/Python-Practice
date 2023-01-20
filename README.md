@@ -1,2 +1,2 @@
 # Python-Practice
-It is all about python
+It is all about python practice on daily basis.
