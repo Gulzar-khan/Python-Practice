@@ -1,2 +1,2 @@
 # Python-Practice
-It is all about python practice on daily basis.
+It is all about python practice on daily basis and contains coding questions.
